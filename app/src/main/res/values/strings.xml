@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">thuchanh4</string>
+    <string name="btnShowToast_Text">Show Toast</string>
+    <string name="btnExit_Text">Exit</string>
+</resources>
